@@ -1,4 +1,4 @@
-# Little-Lemon
+# Little-Lemon Website
 
 The following are the API URL's
 
